@@ -1,0 +1,16 @@
+{
+  "name": "project-platform",
+  "version": "1.0.0",
+  "description": "A platform to create and run code projects.",
+  "main": "index.js",
+  "scripts": {
+    "start": "firebase serve",
+    "deploy": "firebase deploy"
+  },
+  "dependencies": {
+    "firebase": "^9.5.0"
+  },
+  "devDependencies": {},
+  "author": "Your Name",
+  "license": "MIT"
+}
